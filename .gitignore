@@ -1,0 +1,4 @@
+*.pdb
+*.cif
+*.gz
+*.~lock*
